@@ -55,8 +55,8 @@ img { border: 0; max-width: 100%; }
 h1 { 
   font-family: 'Amarante', Tahoma, sans-serif;
   font-weight: bold;
-  font-size: 3.6em;
-  line-height: 1.7em;
+  font-size: 6em;
+  line-height: em;
   margin-bottom: 10px;
   text-align: center;
 }
@@ -74,8 +74,8 @@ h1 {
 
 #keywords {
   margin: 0 auto;
-  font-size: 1.2em;
-  margin-bottom: 15px;
+  font-size: 1.9em;
+  margin-bottom: 0px;
 }
 
 
@@ -85,11 +85,11 @@ h1 {
 }
 #keywords thead tr th { 
   font-weight: bold;
-  padding: 12px 30px;
-  padding-left: 42px;
+  padding: 1px px;
+  padding-left: px;
 }
 #keywords thead tr th span { 
-  padding-right: 20px;
+  padding-right: px;
   background-repeat: no-repeat;
   background-position: 100% 100%;
 }
@@ -112,7 +112,7 @@ h1 {
 }
 #keywords tbody tr td {
   text-align: center;
-  padding: 15px 10px;
+  padding: 10px 10px;
   border-bottom: 1px dotted #5566;
 }
 #keywords tbody tr td.lalign {
