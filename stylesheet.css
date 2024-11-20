@@ -116,3 +116,7 @@ h1 {
 #keywords tbody tr td.lalign {
   text-align: ;
 }
+
+.dotted {
+  text-decoration-style: dotted;
+}
