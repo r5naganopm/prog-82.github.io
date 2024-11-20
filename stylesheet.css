@@ -108,14 +108,16 @@ h1 {
 
 #keywords tbody tr { 
   color: #555;
+  border-bottom: 1px dotted #5566;
 }
 #keywords tbody tr td {
   text-align: center;
   padding: 15px 10px;
+  border-bottom: 1px dotted #5566;
 }
 #keywords tbody tr td.lalign {
   text-align: ;
- border-bottom: 1px dotted #555;
+ border-bottom: 1px dotted #5566;
 }
 
 
