@@ -117,24 +117,6 @@ h1 {
   text-align: ;
 }
 
-body {
-  padding: 20px;
-}
-​
-h2 {
-  margin-top: 70px;
-}
-​
-.code {
-  margin-left: 5px;
-  padding: 3px 6px;
-  background: #ddd;
-  color: #EC1B4B;
-}
-​
-.example {
-  margin-left: 40px;
-}
 .dotted {
   text-decoration-style: dotted;
 }
